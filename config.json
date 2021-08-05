@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "ODcwMzA3ODcwMzYzNzQ2MzQ1.YQK3XQ.j5L0ClUh6g4yQw1gs4415efoo6w",
+    "SERVER_URL": "localhost:30120",
+    "SERVER_LOGO": "https://cdn.discordapp.com/attachments/859502908722380812/869330892068372520/Logo_2.png",
+    "SERVER_NAME": "PowerCity",
+    "PREFIX": "!",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"855428879883436075",
+        "MEMES":"855428879883436076",
+        "ANIMALS":"855428879883436078"
+    }
+    
+}
